@@ -3,7 +3,7 @@ My Machine Learning Projects at Koç University
 
 Yusuf Demirtaş 0072793
 
-Short Descriptions of Project
+Short Descriptions of Projects
 
 PROJECT 1)
 
